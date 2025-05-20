@@ -11,7 +11,7 @@ Welcome to the Dental Clinic Website! This project is developed as part of the F
 
 ## 🌐 Live Demo
 
-> [View Live Site](https://your-live-demo-link.com)  
+> [View Live Site](https://dental-website-phi.vercel.app/)  
 *(Optional but highly recommended — deploy using Netlify, Vercel, or GitHub Pages)*
 
 ---
